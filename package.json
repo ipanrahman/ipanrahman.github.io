@@ -1,0 +1,19 @@
+{
+  "name": "my-personal-blog",
+  "version": "0.0.1",
+  "description": "My Personal Blog",
+  "main": "index.js",
+  "authors": {
+    "name": "Ipan Rahman",
+    "email": "ipantaupik97@gmail.com"
+  },
+  "repository": "/my-personal-blog",
+  "scripts": {
+    "build": "vuepress build src",
+    "dev": "vuepress dev src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
